@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e8758b7-098f-4c38-b54a-f0978137ee37" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/Access.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/Access.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/And.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/And.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/Arith.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/Arith.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/Break.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/Break.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/Constant.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/Constant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/Do.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/Do.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/Else.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/Else.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/Expr.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/Expr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/Id.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/Id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/If.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/If.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/Logical.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/Logical.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/Not.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/Not.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/Op.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/Op.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/Or.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/Or.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/Rel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/Rel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/Seq.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/Seq.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/Set.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/Set.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/SetElem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/SetElem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/Stmt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/Stmt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/Temp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/Temp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/Unary.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/Unary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/inter/While.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/inter/While.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/lexer/Lexer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/lexer/Lexer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/lexer/Num.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/lexer/Num.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/lexer/Real.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/lexer/Real.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/lexer/Tag.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/lexer/Tag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/lexer/Token.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/lexer/Token.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/lexer/Word.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/lexer/Word.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/main/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/main/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/parser/Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/parser/Parser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/symbols/Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/symbols/Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/symbols/Env.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/symbols/Env.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/symbols/Type.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/symbols/Type.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../file.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\devinstall\MyRepository" />
+        <option name="mavenHome" value="C:/devinstall/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\devinstall\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="1cRw03CkrRxGbwma2PAByF3mcTM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e8758b7-098f-4c38-b54a-f0978137ee37" name="Default Changelist" comment="" />
+      <created>1590504486598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590504486598</updated>
+      <workItem from="1590504488353" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
